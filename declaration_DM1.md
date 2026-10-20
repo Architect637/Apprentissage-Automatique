@@ -7,27 +7,29 @@
 > Elle se dépose **avec** le notebook, dans le même commit. Sans elle, le rendu est incomplet :
 > la feuille de route de l'IA est 🟠 (autorisée **avec déclaration**) pour les exercices.
 
-**Nom et prénom :**
-**Pseudo Kaggle :**
-**Dépôt (lien) :**
-**Rendu :** _(E1 / E2 / E3 / B3)_
-**Date :**
+**Nom et prénom :**HOUNKANLIN Fernand
+**Pseudo Kaggle :** __FernNoir__
+**Dépôt (lien) :**https://github.com/Architect637/Apprentissage-Automatique.git
+**Rendu :** _(E1 )_
+**Date :**20-10-2026
 
 ---
 
 ## 1. Ce que j'ai produit moi-même
+les questions 1,2 et 3 et l'ecrit des codes 
 
 _En trois lignes : les parties du travail que vous avez écrites sans assistant._
-
+tout le reste 
 ## 2. Ce que j'ai fait avec un assistant
+tout le reste 
 
 | Outil utilisé | Ce qu'il a produit | Ce que j'ai vérifié moi-même |
-|---|---|---|
+|claude|les explications et les codes |le rendues des codes |
 |  |  |  |
 
 _Si vous n'avez utilisé aucun assistant, écrivez « aucun » — c'est une réponse complète._
 
-## 3. Ce que je ne saurais pas expliquer
+## 3. Ce que je ne saurais pas expliquer tout sauf les questions 1,2 et 3
 
 _La question la plus utile, et la moins confortable : quelle ligne de votre rendu ne savez-vous
 pas défendre si on vous la montre à l'oral ?_
